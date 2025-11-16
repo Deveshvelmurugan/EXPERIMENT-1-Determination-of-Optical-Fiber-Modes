@@ -51,8 +51,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ## 📊 OBSERVATION AND CALCULATION
-![WhatsApp Image 2025-11-16 at 21 12 24_44c52bec](https://github.com/user-attachments/assets/a446599f-9aad-4ec1-b6f8-84bcc1c685a1)
-
+![WhatsApp Image 2025-11-16 at 21 15 33_e553cb2d](https://github.com/user-attachments/assets/f97ba490-1e8f-47ac-9973-7caaed650eb8)
 
 - 
 Parameter of given fiber are,
