@@ -61,4 +61,4 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Result
-    The fiber optic cable supports approximately 6 modes, and four lower-order LP modes were observed experimentally.
+   The fiber optic cable supports approximately 6 modes, and four lower-order LP modes were observed experimentally.
